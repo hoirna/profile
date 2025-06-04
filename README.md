@@ -12,11 +12,12 @@
 
 <h3 align="left">About Me</h3>
 <p align="left">
-  ✨ Creating bugs since I was born.<br>
-  📚 Currently learning Back-end development.<br>
-  🎯 Goals: Be a great Developer.<br>
-  🎲 Fun fact: Sometimes introvert, sometimes extrovert.
+  ✨ Passionate about building — and occasionally breaking — things since day one.<br>
+  📚 Currently diving deep into back-end development.<br>
+  🎯 Goal: To grow into a skilled and impactful developer.<br>
+  🎲 Fun fact: I switch between introvert and extrovert mode like it's a feature, not a bug.
 </p>
+
 
 <h2 align="left">I’m Passionate About</h2>
 <div align="left">
@@ -43,9 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
 </div>
 <div class="gif-container">
-  <img src="https://tenor.com/view/spy-x-family-anya-anya-smug-smug-face-smile-gif-25683900.gif" alt="Anya GIF" />
-  <img src="https://tenor.com/view/sasuke-gif-22049294.gif" alt="Sasuke GIF" />
-  <img src="https://tenor.com/view/genshin-impact-klee-happy-excited-bounce-gif-18764830.gif" alt="Klee GIF" />
+  <img src="https://i.pinimg.com/originals/48/81/5f/48815f510493c69752cfef24db31c5dc.gif" alt="Klee GIF" />
 </div>
 
 <img src="https://raw.githubusercontent.com/hoirna/hoirna/output/snake.svg" alt="Snake animation" />
