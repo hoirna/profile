@@ -50,26 +50,22 @@
 
 <img src="https://raw.githubusercontent.com/hoirna/hoirna/output/snake.svg" alt="Snake animation" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoirna/hoirna/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoirna/hoirna/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/hoirna/hoirna/output/pacman-contribution-graph.svg">
-</picture>
+
 
 <div align="center">
   <a href="https://www.facebook.com/seng.hoirna.2025" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="64" height="45" alt="facebook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="59" height="40" alt="facebook logo"  />
   </a>
   <a href="https://t.me/S_Hoirna" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="64" height="45" alt="telegram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="59" height="40" alt="telegram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/seng-hoirna-353752343/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="45" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.gg/VJEJt8yNm4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="64" height="45" alt="discord logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="59" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@MOON-Dejavuu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="64" height="45" alt="youtube logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="59" height="40" alt="youtube logo"  />
   </a>
 </div>
