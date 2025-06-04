@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
 </div>
 <div class="gif-container">
-  <img src="https://i.pinimg.com/originals/48/81/5f/48815f510493c69752cfef24db31c5dc.gif" alt="Klee GIF" />
+  <img src="https://media1.tenor.com/m/2vkg2P2nWVkAAAAd/lonely-anya-spy-x-family.gif" alt="Anya cute" />
 </div>
 
 <img src="https://raw.githubusercontent.com/hoirna/hoirna/output/snake.svg" alt="Snake animation" />
