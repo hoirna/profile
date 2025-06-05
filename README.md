@@ -1,9 +1,9 @@
-<h1 align="center">សួស្តី | Hey there! 👋</h1>
+<h1 align="left">សួស្តី | Hey there! 👋</h1>
 
-<h3 align="center">I'm Seng Hoirna, a Full Stack Developer from Cambodia.</h3>
+<h3 align="left">I'm Seng Hoirna, a Full Stack Developer from Cambodia.</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8B5CF6&size=24¢er=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+from+Cambodia" alt="Typing SVG" />
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8B5CF6&size=24¢er=true&vCenter=fale&width=600&lines=Welcome+to+my+GitHub+Profile!;A+Full+Stack+Developer+from+Cambodia." alt="Typing SVG" />
 </div>
 
 <div align="center">
