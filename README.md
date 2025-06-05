@@ -1,4 +1,4 @@
-<h1 align="left">សួស្តី | Hey there! 👋</h1>
+<h1 align="left"> Hey there!👋</h1>
 
 <h3 align="left">I'm Seng Hoirna, a Full Stack Developer from Cambodia.</h3>
 
